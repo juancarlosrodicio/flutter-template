@@ -1,6 +1,6 @@
-import 'package:flutterTemplate/domain/datasources/local_storage_datasource.dart';
-import 'package:flutterTemplate/domain/entities/entities.dart';
-import 'package:flutterTemplate/domain/repositories/local_storage_repository.dart';
+import 'package:fluttertemplate/domain/datasources/local_storage_datasource.dart';
+import 'package:fluttertemplate/domain/entities/entities.dart';
+import 'package:fluttertemplate/domain/repositories/local_storage_repository.dart';
 
 class LocalStorageRepositoryImpl extends LocalStorageRepository {
 

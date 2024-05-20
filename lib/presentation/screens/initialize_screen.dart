@@ -1,5 +1,5 @@
-import 'package:flutterTemplate/config/extensions/navigation_extensions.dart';
-import 'package:flutterTemplate/config/helpers/initialization_helper.dart';
+import 'package:fluttertemplate/config/extensions/navigation_extensions.dart';
+import 'package:fluttertemplate/config/helpers/initialization_helper.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 

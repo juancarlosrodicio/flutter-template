@@ -1,10 +1,10 @@
-import 'package:flutterTemplate/config/helpers/get_it.dart';
+import 'package:fluttertemplate/config/helpers/get_it.dart';
 //import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
-import 'package:flutterTemplate/config/router/app_router.dart';
+import 'package:fluttertemplate/config/router/app_router.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
-import 'package:flutterTemplate/config/theme/app_theme.dart';
+import 'package:fluttertemplate/config/theme/app_theme.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';

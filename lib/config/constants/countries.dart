@@ -1,5 +1,5 @@
 
-import 'package:flutterTemplate/config/constants/environment.dart';
+import 'package:fluttertemplate/config/constants/environment.dart';
 
 class Countries {
 

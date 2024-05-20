@@ -1,4 +1,4 @@
-import 'package:flutterTemplate/config/helpers/ad_helper.dart';
+import 'package:fluttertemplate/config/helpers/ad_helper.dart';
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 

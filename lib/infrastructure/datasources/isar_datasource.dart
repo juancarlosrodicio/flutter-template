@@ -1,7 +1,7 @@
-import 'package:flutterTemplate/config/constants/countries.dart';
-import 'package:flutterTemplate/config/constants/environment.dart';
-import 'package:flutterTemplate/domain/datasources/local_storage_datasource.dart';
-import 'package:flutterTemplate/domain/entities/entities.dart';
+import 'package:fluttertemplate/config/constants/countries.dart';
+import 'package:fluttertemplate/config/constants/environment.dart';
+import 'package:fluttertemplate/domain/datasources/local_storage_datasource.dart';
+import 'package:fluttertemplate/domain/entities/entities.dart';
 import 'package:isar/isar.dart';
 import 'package:path_provider/path_provider.dart';
 

@@ -1,7 +1,7 @@
-import 'package:flutterTemplate/config/constants/environment.dart';
+import 'package:fluttertemplate/config/constants/environment.dart';
 import 'package:flutter/material.dart';
 
-import 'package:flutterTemplate/presentation/widgets/widgets.dart';
+import 'package:fluttertemplate/presentation/widgets/widgets.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 

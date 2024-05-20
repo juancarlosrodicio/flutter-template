@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:flutterTemplate/config/constants/environment.dart';
+import 'package:fluttertemplate/config/constants/environment.dart';
 
 
 class AdHelper {
@@ -15,13 +15,4 @@ class AdHelper {
     }
   }
 
-    static String get bannerAdUnitId2 {
-    if (Platform.isAndroid) {
-      return Environment.admob2AndroidProd;
-    } else if (Platform.isIOS) {
-      return Environment.admob2IosProd;
-    } else {
-      throw UnsupportedError('Unsupported platform');
-    }
-  }
 }

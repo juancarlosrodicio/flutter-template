@@ -1,4 +1,4 @@
-import 'package:flutterTemplate/domain/datasources/analytics_datasource.dart';
+import 'package:fluttertemplate/domain/datasources/analytics_datasource.dart';
 import 'package:firebase_analytics/firebase_analytics.dart';
 
 class FirebaseAnalyticsDatasource extends AnalyticsDatasource {

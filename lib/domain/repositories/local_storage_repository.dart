@@ -1,4 +1,4 @@
-import 'package:flutterTemplate/domain/entities/entities.dart';
+import 'package:fluttertemplate/domain/entities/entities.dart';
 
 abstract class LocalStorageRepository {
 

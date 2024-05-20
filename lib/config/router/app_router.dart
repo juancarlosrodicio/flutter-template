@@ -1,6 +1,6 @@
-import 'package:flutterTemplate/presentation/screens/initialize_screen.dart';
-import 'package:flutterTemplate/presentation/screens/screens.dart';
-import 'package:flutterTemplate/presentation/views/views.dart';
+import 'package:fluttertemplate/presentation/screens/initialize_screen.dart';
+import 'package:fluttertemplate/presentation/screens/screens.dart';
+import 'package:fluttertemplate/presentation/views/views.dart';
 import 'package:go_router/go_router.dart';
 
 final appRouter = GoRouter(
